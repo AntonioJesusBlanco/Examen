@@ -6,8 +6,12 @@ public class Main {
 
 	
 		
+<<<<<<< HEAD
 		System.out.println("Hola me llamo");
 		System.out.println("hasta luego");
+=======
+		System.out.println("Hola me llamo Jesus");
+>>>>>>> branch 'master' of https://github.com/AntonioJesusBlanco/Examen.git
 		
 		
 	}
